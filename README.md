@@ -1,7 +1,10 @@
 ## Following files are part of project submission
-* README.wdi (this file)
-* CodeBook.wd
+* README.md (this file)
+* problem_description.md ( problem description from coursera project page )
+* CodeBook.md
 * run_analysis.R
+* HumanActivityRecognitionDataFromSmartphone.csv ( tidy data set created using submitted script )
+* HumanActivityRecognitionDataFromSmartphoneSummary.csv ( tidy summary data set created using script)
 
 run_analysis.R contains code that implements function cleanHumanActivityRecognitionData()
 which takes path of data dir root where given data is unzipped. In this project
