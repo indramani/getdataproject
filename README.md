@@ -34,4 +34,4 @@ of data columns in previous file.
 
 # Data Description
 
-A seprate CodeBook is available in projct repository for data description. (CodeBook.wd)
+A seprate CodeBook is available in projct repository for data description. (CodeBook.md)
